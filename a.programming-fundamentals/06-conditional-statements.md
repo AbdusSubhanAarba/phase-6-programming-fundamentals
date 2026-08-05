@@ -183,9 +183,9 @@ Logical operators combine multiple conditions.
 Examples:
 
 | Operator | Meaning |
-|----------|---------|
+|----------|----------|
 | `&&` | AND |
-| `||` | OR |
+| `\|\|` | OR |
 | `!` | NOT |
 
 Example:
